@@ -5,7 +5,7 @@ import { theory } from "../api/Theory";
 import { Utils } from "../api/Utils";
 
 var id = "logistic_function"
-var name = 'T5 pet ouo";
+var name = "T5 pet ouo";
 var description = "An slow one of the Logistic Function theory from the game.";
 var authors = "Gilles-Philippe Paillé";
 var version = 1;
